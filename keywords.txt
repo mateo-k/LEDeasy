@@ -1,0 +1,41 @@
+#######################################
+# Syntax Coloring Map LowPower
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+STATE_t KEYWORD1
+BLINK_STATE_t KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+update	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+blink_slow	KEYWORD2
+blink_med	KEYWORD2
+blink_fast	KEYWORD2
+get_state	KEYWORD2
+get_blink_state	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+LEDeasy	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+OFF	LITERAL1
+ON  LITERAL1
+SLOW  LITERAL1
+MED LITERAL1
+FAST  LITERAL1
+BLINK_OFF LITERAL1
+BLINK_ON  LITERAL1
