@@ -6,8 +6,8 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-STATE_t KEYWORD1
-BLINK_STATE_t KEYWORD1
+STATE_t	KEYWORD1
+BLINK_STATE_t	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
@@ -33,9 +33,9 @@ LEDeasy	KEYWORD2
 #######################################
 
 OFF	LITERAL1
-ON  LITERAL1
-SLOW  LITERAL1
-MED LITERAL1
-FAST  LITERAL1
-BLINK_OFF LITERAL1
-BLINK_ON  LITERAL1
+ON	LITERAL1
+SLOW	LITERAL1
+MED	LITERAL1
+FAST	LITERAL1
+BLINK_OFF	LITERAL1
+BLINK_ON	LITERAL1
